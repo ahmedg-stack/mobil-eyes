@@ -25,7 +25,7 @@ A vehicle-mounted thermal + night-vision attachment that gives a driver a second
 - Soldered the AMG8833 and wired the UNO, sensor, and camera into one USB path.
 - Built and mounted the housing and ran the road tests with my teammate.
 
-**Daksha Srinivasan** was my teammate. <!-- TODO: add one line on Daksha's role — confirm with Ahmed -->
+**Daksha Srinivasan** was my teammate. She did much of the research, helped come up with and design the idea, helped with the CAD, and got the housing 3D printed.
 
 ## System diagram
 
@@ -142,7 +142,7 @@ To build the firmware: Arduino IDE → install **Adafruit AMG88xx Library** → 
 
 ## Credits
 
-- **Daksha Srinivasan**, teammate
+- **Daksha Srinivasan**, teammate: research, concept and design, CAD, 3D printing
 - Mentors: **Bryan Mueller** (CompEdge), **Dr. Sriram Chandrasekaran** (Raytheon), **Edgar Nunez** (CTE Center)
 - **Garver**, for the opportunity to present
 - Classmates, for peer reviews
